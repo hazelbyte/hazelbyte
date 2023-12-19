@@ -18,4 +18,6 @@ minecraft developer
   <img src = "https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt = "NextJS"  />
   <img src = "https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt = "React" />
   <img src = "https://img.shields.io/badge/-Astro-000000?style=for-the-badge&logo=astro&logoColor=white" alt = "Astro" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ed?style=for-the-badge&logo=docker&logoColor=black" />
+  <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-fff?style=for-the-badge&logo=prisma&logoColor=black" />
   </br></br>
